@@ -8,4 +8,7 @@ int main()
   {
 pritnf("hello world");
 }
+  else
+  {printf("okay bye");
+  }
 }
