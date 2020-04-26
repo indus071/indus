@@ -7,7 +7,9 @@ int main()
   if(i=10)
   {
 pritnf("hello world");
+    printf("good morning");
 }
+}//done my changes
   else
   {printf("okay bye");
   }
