@@ -10,3 +10,7 @@ pritnf("hello world");
     printf("good morning");
 }
 }//done my changes
+  else
+  {printf("okay bye");
+  }
+}
